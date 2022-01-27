@@ -1,0 +1,15 @@
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\bin\Debug\net6.0\ProjetoPrativa.exe
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\bin\Debug\net6.0\ProjetoPrativa.deps.json
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\bin\Debug\net6.0\ProjetoPrativa.runtimeconfig.json
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\bin\Debug\net6.0\ProjetoPrativa.dll
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\bin\Debug\net6.0\ref\ProjetoPrativa.dll
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\bin\Debug\net6.0\ProjetoPrativa.pdb
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.csproj.AssemblyReference.cache
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.AssemblyInfoInputs.cache
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.AssemblyInfo.cs
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.csproj.CoreCompileInputs.cache
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.dll
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ref\ProjetoPrativa.dll
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.pdb
+C:\VISUAL-STUDIO\aula-c#\ProjetoPratica\ProjetoPrativa\obj\Debug\net6.0\ProjetoPrativa.genruntimeconfig.cache
